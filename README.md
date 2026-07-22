@@ -10,12 +10,12 @@ The Openspand project is published here: https://codeberg.org/NollKollTroll/Open
 
 All software, manuals and binaries are available there.
 
-<img width="1456" height="692" alt="HandmadeLogo" src="https://github.com/user-attachments/assets/215f1106-e8e4-4b50-be3b-279be5d309f9" />
-
 
 <img width="773" height="588" alt="1526-5" src="https://github.com/user-attachments/assets/2e609a33-fe7e-4c8a-9779-44ca88e924e5" />
 <img width="2295" height="3060" alt="1526-1" src="https://github.com/user-attachments/assets/3f4312ce-9850-4fb4-a416-9dd5695b4ba6" />
 <img width="1536" height="2048" alt="1526-4" src="https://github.com/user-attachments/assets/54295c14-f4d6-450a-9b19-722fa735376f" />
 <img width="2295" height="3060" alt="1526-2" src="https://github.com/user-attachments/assets/dc7b336a-f234-42e1-a8d8-fac46337bebe" />
 <img width="2295" height="3060" alt="1526-3" src="https://github.com/user-attachments/assets/360ed1dc-60f4-4abe-963e-871da3de771b" />
+<img width="2825" height="1044" alt="HandmadeLogo2" src="https://github.com/user-attachments/assets/1bb348dc-f955-49f7-a012-2c5563297a24" />
+
 
