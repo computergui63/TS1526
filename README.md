@@ -16,6 +16,8 @@ All software, manuals and binaries are available there.
 <img width="1536" height="2048" alt="1526-4" src="https://github.com/user-attachments/assets/54295c14-f4d6-450a-9b19-722fa735376f" />
 <img width="2295" height="3060" alt="1526-2" src="https://github.com/user-attachments/assets/dc7b336a-f234-42e1-a8d8-fac46337bebe" />
 <img width="2295" height="3060" alt="1526-3" src="https://github.com/user-attachments/assets/360ed1dc-60f4-4abe-963e-871da3de771b" />
+<img width="1536" height="2048" alt="1526-7" src="https://github.com/user-attachments/assets/e30fd93b-9a35-43c4-9b1c-6cf8218ec3c3" />
+<img width="1536" height="2048" alt="1526-6" src="https://github.com/user-attachments/assets/ca2d4b27-fa27-4bd5-a6b5-ad8ad013e76c" />
 <img width="2825" height="1044" alt="HandmadeLogo2" src="https://github.com/user-attachments/assets/1bb348dc-f955-49f7-a012-2c5563297a24" />
 
 
